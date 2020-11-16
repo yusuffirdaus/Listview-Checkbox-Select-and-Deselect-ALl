@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Listview_with_checkbox_demonuts.iml" filepath="$PROJECT_DIR$/Listview_with_checkbox_demonuts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Listview_with_checkbox_demonuts.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Listview_with_checkbox_demonuts.app.iml" />
+    </modules>
+  </component>
+</project>
